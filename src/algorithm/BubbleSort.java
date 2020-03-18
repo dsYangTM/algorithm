@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class BubbleSort {
     @Test
     public void bubbleSort() {
-        int[] arr = {3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48};
+        int[] arr = {3, 40, 33, 6, 56, 15, 36, 26, 28, 2, 39, 4, 19, 52, 49};
         // 统计比较次数
         int count = 0;
         // 第一轮比较
